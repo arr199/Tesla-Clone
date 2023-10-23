@@ -1,0 +1,25 @@
+.hoverEffect{
+    transition: .2s  ease-in-out , .6s opacity ease-in-out  , .3s visibility ease-in-out;  
+    
+}
+section > p {
+    cursor: pointer;
+    text-underline-offset : 4px;
+    
+}
+
+.hero-buttons {
+     width: 100%;
+     display: flex;
+     flex-wrap: wrap;
+     align-items: center;
+     justify-content: center;
+     text-align: center;
+}
+
+.hero-buttons > a {
+    width: 270px;
+    
+}
+
+
